@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca9f024adcbb006489bea06ad2f7a523
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218000
+  packageName: Wooden Staff
+  packageVersion: 1.0
+  assetPath: Assets/VarcanRex/Wooden_Staff/DemoScene/Materials/SkyBox.mat
+  uploadId: 492462
